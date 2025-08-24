@@ -43,7 +43,7 @@ A modern, responsive feature-rich grocery market management application built wi
 
 1. **Clone & Install Dependencies**
    ```bash
-   git clone <your-repo-url> freshmart
+   git clone https://github.com/Inaolol/freshmart.git
    cd freshmart
    composer install
    npm install
